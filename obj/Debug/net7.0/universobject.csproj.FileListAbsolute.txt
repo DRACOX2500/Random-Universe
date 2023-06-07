@@ -1,0 +1,15 @@
+C:\Users\alexi\Documents\GIT - SSD\universobject\bin\Debug\net7.0\universobject.exe
+C:\Users\alexi\Documents\GIT - SSD\universobject\bin\Debug\net7.0\universobject.deps.json
+C:\Users\alexi\Documents\GIT - SSD\universobject\bin\Debug\net7.0\universobject.runtimeconfig.json
+C:\Users\alexi\Documents\GIT - SSD\universobject\bin\Debug\net7.0\universobject.dll
+C:\Users\alexi\Documents\GIT - SSD\universobject\bin\Debug\net7.0\universobject.pdb
+C:\Users\alexi\Documents\GIT - SSD\universobject\obj\Debug\net7.0\universobject.csproj.AssemblyReference.cache
+C:\Users\alexi\Documents\GIT - SSD\universobject\obj\Debug\net7.0\universobject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\Documents\GIT - SSD\universobject\obj\Debug\net7.0\universobject.AssemblyInfoInputs.cache
+C:\Users\alexi\Documents\GIT - SSD\universobject\obj\Debug\net7.0\universobject.AssemblyInfo.cs
+C:\Users\alexi\Documents\GIT - SSD\universobject\obj\Debug\net7.0\universobject.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Documents\GIT - SSD\universobject\obj\Debug\net7.0\universobject.dll
+C:\Users\alexi\Documents\GIT - SSD\universobject\obj\Debug\net7.0\refint\universobject.dll
+C:\Users\alexi\Documents\GIT - SSD\universobject\obj\Debug\net7.0\universobject.pdb
+C:\Users\alexi\Documents\GIT - SSD\universobject\obj\Debug\net7.0\universobject.genruntimeconfig.cache
+C:\Users\alexi\Documents\GIT - SSD\universobject\obj\Debug\net7.0\ref\universobject.dll
